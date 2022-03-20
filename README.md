@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dipendra
 - 👀 I’m interested in Software development in General.
-- 🌱 I’m currently learning Web Development, particularly React.
-- 💞️ I’m looking to collaborate on some react projects that make sense.
+- 🌱 I’m currently working for Department of Customer Service, NSW Government as a software developer
+- 💞️ I’m in search of a life changing idea, ready to make the difference
 - 📫 You can reach me via bhandaridipendra94@gmail.com or 0449001994
 
 <!---
